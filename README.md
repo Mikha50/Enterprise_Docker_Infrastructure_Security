@@ -122,6 +122,7 @@ enterprise-docker-infrastructure/
 ├── scripts/
 │   └── validate.sh             # Automated end-to-end verification and vulnerability scanner
 └── docs/
+    ├── app-dashboard.jpg       # Live application verification screenshot
     ├── iac-security-report.txt # Trivy IaC configuration audit (0 misconfigurations)
     ├── nginx-vuln-report.txt   # Trivy NGINX image CVE scan report
     └── tomcat-vuln-report.txt  # Trivy Tomcat/App image CVE scan report
@@ -171,6 +172,11 @@ http://127.0.0.1/login
 To test standard authentication:
 - **Default User:** `admin_vp`
 - **Default Password:** `admin_vp`
+
+#### 📸 Verified Operational Application (Live Dashboard):
+<p align="center">
+  <img src="docs/app-dashboard.jpg" alt="VProfile Application Dashboard" width="90%">
+</p>
 
 ---
 
