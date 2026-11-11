@@ -200,4 +200,4 @@ To test standard authentication:
 ## 📜 Authors & Acknowledgments
 - **Project:** Senior Academy - Enterprise Docker Infrastructure Lab 02
 - **Instructor:** Eng. Gamal Mohammad
-- **Architecture & Implementation:** Mikha & Antigravity (Google DeepMind)
+- **Architecture & Implementation:** Mikhail Farag
